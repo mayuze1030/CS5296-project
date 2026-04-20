@@ -1,0 +1,3 @@
+MIGRATED TCP Connect/Request/Response TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 172.31.8.204 () port 0 AF_INET : demo
+Minimum Latency Microseconds,Maximum Latency Microseconds,Mean Latency Microseconds
+225,1809,342.83,,
